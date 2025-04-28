@@ -40,12 +40,11 @@
 ‎*Tech Stack 🛠️*
 ‎- *Node.js* : Backend
 ‎- *Telegram Bot API* : Interaction
-‎- *Remove.bg API* : Background removal
-‎- *Express.js* : Optional server hosting
+<p>‎- *Remove.bg API* : Background removal</p>
+<p>‎- *Express.js* : Optional server hosting</p>
 ‎
-‎*License ⚖️*
-‎This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+‎<h4>*License ⚖️*</h4>
+<p>This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).</p>
+
 ‎
-‎---
-‎
-‎Bg_RemoverBot is developed by *StaNLink Dev Team* 💯🔥. Let us know if you need additional features or help with deployment!
+‎<p>Bg_RemoverBot is developed by *StaNLink Dev Team* 💯🔥. Let us know if you need additional features or help with deployment!</p>
