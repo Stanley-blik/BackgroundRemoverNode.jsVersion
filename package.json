@@ -1,0 +1,17 @@
+‎{
+‎  "name": "bg_remover_bot",
+‎  "version": "1.0.0",
+‎  "description": "A Telegram bot for removing image backgrounds using Remove.bg API",
+‎  "main": "bot.js",
+‎  "scripts": {
+‎    "start": "node bot.js"
+‎  },
+‎  "dependencies": {
+‎    "axios": "^1.4.0",
+‎    "dotenv": "^10.0.0",
+‎    "node-telegram-bot-api": "^0.59.0"
+‎  },
+‎  "keywords": ["Telegram", "Bot", "Remove.bg", "Background Removal", "Node.js"],
+‎  "author": "Stanley",
+‎  "license": "MIT"
+‎}
