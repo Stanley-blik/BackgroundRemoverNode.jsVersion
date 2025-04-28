@@ -23,11 +23,11 @@
 ‎   git clone https://github.com/your-username/bg_remover_bot.git
 ‎   cd bg_remover_bot
 ‎   ```
-‎2. Install dependencies:
+<h4>‎2. Install dependencies:</h4>
 ‎   ```bash
 ‎   npm install
 ‎   ```
-‎3. Add your API keys to a `.env` file:
+‎<h4>3. Add your API keys to a `.env` file:</h4>
 ‎   ```env
 ‎   BOT_API_TOKEN=<Your Telegram Bot API Token>
 ‎   REMOVE_BG_API_KEY=<Your Remove.bg API Key>
