@@ -1,4 +1,4 @@
-<h2># BackgroundRemoverNode.jsVersion</h2>
+<h2># © 2025. StaNLink Dev Team</h2>
 <h2>‎# Bg_RemoverBot 🎨🤖</h2>
 ‎
 <p>Bg_RemoverBot is a Telegram bot that instantly removes image backgrounds using the powerful **Remove.bg API**. Whether you're a designer, entrepreneur, or casual creator, this bot makes image editing effortless!</p>
