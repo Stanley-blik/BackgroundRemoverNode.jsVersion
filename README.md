@@ -1,24 +1,24 @@
-# BackgroundRemoverNode.jsVersion
-‎# Bg_RemoverBot 🎨🤖
+<h2># BackgroundRemoverNode.jsVersion</h2>
+<h2>‎# Bg_RemoverBot 🎨🤖</h2>
 ‎
-‎Bg_RemoverBot is a Telegram bot that instantly removes image backgrounds using the powerful **Remove.bg API**. Whether you're a designer, entrepreneur, or casual creator, this bot makes image editing effortless!
+<p>Bg_RemoverBot is a Telegram bot that instantly removes image backgrounds using the powerful **Remove.bg API**. Whether you're a designer, entrepreneur, or casual creator, this bot makes image editing effortless!</p>
 ‎
-‎## Features 🚀
-‎- **Send an image** and receive a transparent PNG with the background removed.
-‎- Easy-to-use commands:
-‎  - `/start` – Welcome message and bot introduction.
-‎  - `/help` – Instructions on how to use the bot.
-‎  - `/about` – Learn more about Bg_RemoverBot.
-‎  - Image processing via the Remove.bg API.
-‎- **No software needed**—just Telegram!
+<h3>‎## Features 🚀</h3>
+<p>‎- **Send an image** and receive a transparent PNG with the background removed.</p>
+<p>- Easy-to-use commands:</p>
+‎  <p>- `/start` – Welcome message and bot introduction.</p>
+‎  <p>- `/help` – Instructions on how to use the bot.</p>
+‎  <p>- `/about` – Learn more about Bg_RemoverBot.</p>
+‎  <p>- Image processing via the Remove.bg API.</p>
+<p>- **No software needed**—just Telegram!</p>
 ‎
-‎## How It Works 📋
-‎1. Upload an image to the bot.
-‎2. Bg_RemoverBot processes the image using the **Remove.bg API**.
-‎3. Receive a clean, high-resolution image with the background removed.
+<h3>## How It Works 📋</h3>
+<p‎>1. Upload an image to the bot.</p>
+<p>2. Bg_RemoverBot processes the image using the **Remove.bg API**.</p>
+<p>‎3. Receive a clean, high-resolution image with the background removed.</p>
 ‎
-‎## Setup 💻
-‎1. Clone this repository:
+<h3>‎## Setup 💻</h3>
+<h4>1. Clone this repository:</h4>
 ‎   ```bash
 ‎   git clone https://github.com/your-username/bg_remover_bot.git
 ‎   cd bg_remover_bot
