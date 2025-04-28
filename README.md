@@ -32,18 +32,18 @@
 ‎   BOT_API_TOKEN=<Your Telegram Bot API Token>
 ‎   REMOVE_BG_API_KEY=<Your Remove.bg API Key>
 ‎   ```
-‎4. Start the bot:
+<h4>‎4. Start the bot:</h4>
 ‎   ```bash
 ‎   npm start
 ‎   ```
 ‎
-‎*Tech Stack 🛠️*
-‎- *Node.js* : Backend
-‎- *Telegram Bot API* : Interaction
+<h3>*Tech Stack 🛠️*</h3>
+<p>‎- *Node.js* : Backend</p>
+<p>‎- *Telegram Bot API* : Interaction</p>
 <p>‎- *Remove.bg API* : Background removal</p>
 <p>‎- *Express.js* : Optional server hosting</p>
 ‎
-‎<h4>*License ⚖️*</h4>
+‎<h3>*License ⚖️*</h3>
 <p>This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).</p>
 
 ‎
